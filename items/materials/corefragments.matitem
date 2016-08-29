@@ -1,0 +1,10 @@
+{
+  "itemName" : "corefragmentmaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "corefragments.png",
+  "shortdescription" : "Placeable Core Fragments",
+  "description" : "Core Fragments Ore.",
+  "materialId" : 18003
+}

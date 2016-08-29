@@ -1,0 +1,10 @@
+{
+  "itemName" : "platinummaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "platinum.png",
+  "shortdescription" : "Placeable Platinum",
+  "description" : "Platinum Ore.",
+  "materialId" : 18009
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "durasteelmaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "durasteel.png",
+  "shortdescription" : "Placeable Durasteel",
+  "description" : "Durasteel Ore.",
+  "materialId" : 18022
+}

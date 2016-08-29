@@ -1,0 +1,10 @@
+{
+  "itemName" : "moonstonematerial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "moonstone.png",
+  "shortdescription" : "Placeable Moonstone",
+  "description" : "Moonstone Ore.",
+  "materialId" : 18008
+}

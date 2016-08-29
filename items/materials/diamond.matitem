@@ -1,0 +1,10 @@
+{
+  "itemName" : "diamondmaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "diamond.png",
+  "shortdescription" : "Placeable Diamond",
+  "description" : "Diamond Ore.",
+  "materialId" : 18021
+}

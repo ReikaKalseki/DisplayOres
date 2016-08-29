@@ -1,0 +1,20 @@
+{
+  "materialId" : 18011,
+  "materialName" : "prisilite",
+  "particleColor" : [149, 149, 149, 255],
+  "itemDrop" : "prisilitematerial",
+  "shortdescription" : "Placed Prisilite",
+  "description" : "Prisilite Ore.",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 6,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "prisilite.png",
+    "variants" : 40,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 1640
+  }
+}

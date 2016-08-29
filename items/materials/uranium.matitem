@@ -1,0 +1,10 @@
+{
+  "itemName" : "uraniummaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "uranium.png",
+  "shortdescription" : "Placeable Uranium",
+  "description" : "Uranium Ore.",
+  "materialId" : 18018
+}

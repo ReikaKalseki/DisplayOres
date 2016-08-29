@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "cobblestonematerial", "count" : 10 },
+    { "item" : "refinedviolium", "count" : 1 }
+  ],
+  "output" : { "item" : "violiummaterial", "count" : 40 },
+  "groups" : [ "plain", "all" ]
+}

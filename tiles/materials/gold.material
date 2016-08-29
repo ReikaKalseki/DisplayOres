@@ -1,0 +1,20 @@
+{
+  "materialId" : 18005,
+  "materialName" : "gold",
+  "particleColor" : [149, 149, 149, 255],
+  "itemDrop" : "goldmaterial",
+  "shortdescription" : "Placed Gold",
+  "description" : "Gold Ore.",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 6,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "gold.png",
+    "variants" : 40,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 1640
+  }
+}

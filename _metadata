@@ -1,0 +1,10 @@
+{
+  "author" : "Reika",
+  "description" : "Adds placeable display versions of all the ores, since some of them are very pretty. Crafted with the ore in question, but cheaply. Note that you cannot undo this.",
+  "friendlyName" : "Display Ores",
+  "includes" : [],
+  "link" : "steam://url/CommunityFilePage/754050318",
+  "name" : "DisplayOres",
+  "steamContentId" : "754050318",
+  "version" : "0.0.1"
+}

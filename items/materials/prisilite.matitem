@@ -1,0 +1,10 @@
+{
+  "itemName" : "prisilitematerial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "prisilite.png",
+  "shortdescription" : "Placeable Prisilite",
+  "description" : "Prisilite Ore.",
+  "materialId" : 18011
+}

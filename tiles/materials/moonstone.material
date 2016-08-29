@@ -1,0 +1,20 @@
+{
+  "materialId" : 18008,
+  "materialName" : "moonstone",
+  "particleColor" : [149, 149, 149, 255],
+  "itemDrop" : "moonstonematerial",
+  "shortdescription" : "Placed Moonstone",
+  "description" : "Moonstone Ore.",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 6,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "moonstone.png",
+    "variants" : 40,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 1640
+  }
+}

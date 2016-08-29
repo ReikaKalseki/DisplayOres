@@ -1,0 +1,10 @@
+{
+  "itemName" : "feroziummaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "ferozium.png",
+  "shortdescription" : "Placeable Ferozium",
+  "description" : "Ferozium Ore.",
+  "materialId" : 18004
+}

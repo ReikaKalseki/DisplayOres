@@ -1,0 +1,10 @@
+{
+  "itemName" : "coalmaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "coal.png",
+  "shortdescription" : "Placeable Coal",
+  "description" : "Coal Ore.",
+  "materialId" : 18001
+}

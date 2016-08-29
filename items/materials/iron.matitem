@@ -1,0 +1,10 @@
+{
+  "itemName" : "ironmaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "iron.png",
+  "shortdescription" : "Placeable Iron",
+  "description" : "Iron Ore.",
+  "materialId" : 18006
+}

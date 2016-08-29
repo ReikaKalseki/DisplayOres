@@ -1,0 +1,20 @@
+{
+  "materialId" : 18010,
+  "materialName" : "plutonium",
+  "particleColor" : [149, 149, 149, 255],
+  "itemDrop" : "plutoniummaterial",
+  "shortdescription" : "Placed Plutonium",
+  "description" : "Plutonium Ore.",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 6,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "plutonium.png",
+    "variants" : 40,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 1640
+  }
+}

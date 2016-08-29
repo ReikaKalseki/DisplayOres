@@ -1,0 +1,10 @@
+{
+  "itemName" : "solariummaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "solarium.png",
+  "shortdescription" : "Placeable Solarium",
+  "description" : "Solarium Ore.",
+  "materialId" : 18013
+}

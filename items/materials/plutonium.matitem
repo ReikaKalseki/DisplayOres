@@ -1,0 +1,10 @@
+{
+  "itemName" : "plutoniummaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "plutonium.png",
+  "shortdescription" : "Placeable Plutonium",
+  "description" : "Plutonium Ore.",
+  "materialId" : 18010
+}

@@ -1,0 +1,20 @@
+{
+  "materialId" : 18014,
+  "materialName" : "sulphur",
+  "particleColor" : [149, 149, 149, 255],
+  "itemDrop" : "sulphurmaterial",
+  "shortdescription" : "Placed Sulphur",
+  "description" : "Sulphur Ore.",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 6,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "sulphur.png",
+    "variants" : 40,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 1640
+  }
+}

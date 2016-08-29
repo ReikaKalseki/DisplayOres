@@ -1,0 +1,10 @@
+{
+  "itemName" : "tungstenmaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "tungsten.png",
+  "shortdescription" : "Placeable Tungsten",
+  "description" : "Tungsten Ore.",
+  "materialId" : 18017
+}

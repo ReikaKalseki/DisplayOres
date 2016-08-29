@@ -1,0 +1,10 @@
+{
+  "itemName" : "goldmaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "gold.png",
+  "shortdescription" : "Placeable Gold",
+  "description" : "Gold Ore.",
+  "materialId" : 18005
+}

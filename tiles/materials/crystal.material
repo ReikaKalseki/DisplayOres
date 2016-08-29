@@ -1,0 +1,20 @@
+{
+  "materialId" : 18020,
+  "materialName" : "crystal",
+  "particleColor" : [149, 149, 149, 255],
+  "itemDrop" : "crystalmaterial",
+  "shortdescription" : "Placed Crystal",
+  "description" : "Crystal Ore.",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 6,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "crystal.png",
+    "variants" : 40,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 1640
+  }
+}

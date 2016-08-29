@@ -1,0 +1,20 @@
+{
+  "materialId" : 18007,
+  "materialName" : "lead",
+  "particleColor" : [149, 149, 149, 255],
+  "itemDrop" : "leadmaterial",
+  "shortdescription" : "Placed Lead",
+  "description" : "Lead Ore.",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 6,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "lead.png",
+    "variants" : 40,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 1640
+  }
+}

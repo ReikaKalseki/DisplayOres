@@ -1,0 +1,20 @@
+{
+  "materialId" : 18012,
+  "materialName" : "silver",
+  "particleColor" : [149, 149, 149, 255],
+  "itemDrop" : "silvermaterial",
+  "shortdescription" : "Placed Silver",
+  "description" : "Silver Ore.",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 6,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "silver.png",
+    "variants" : 40,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 1640
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "triangliummaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "trianglium.png",
+  "shortdescription" : "Placeable Trianglium",
+  "description" : "Trianglium Ore.",
+  "materialId" : 18016
+}

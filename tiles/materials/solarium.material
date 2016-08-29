@@ -1,0 +1,20 @@
+{
+  "materialId" : 18013,
+  "materialName" : "solarium",
+  "particleColor" : [149, 149, 149, 255],
+  "itemDrop" : "solariummaterial",
+  "shortdescription" : "Placed Solarium",
+  "description" : "Solarium Ore.",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 6,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "solarium.png",
+    "variants" : 40,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 1640
+  }
+}

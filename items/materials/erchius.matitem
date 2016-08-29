@@ -1,0 +1,10 @@
+{
+  "itemName" : "erchiusmaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "erchius.png",
+  "shortdescription" : "Placeable Erchius",
+  "description" : "Erchius Ore.",
+  "materialId" : 18023
+}

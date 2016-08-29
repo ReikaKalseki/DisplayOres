@@ -1,0 +1,10 @@
+{
+  "itemName" : "sulphurmaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "sulphur.png",
+  "shortdescription" : "Placeable Sulphur",
+  "description" : "Sulphur Ore.",
+  "materialId" : 18014
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "leadmaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "lead.png",
+  "shortdescription" : "Placeable Lead",
+  "description" : "Lead Ore.",
+  "materialId" : 18007
+}

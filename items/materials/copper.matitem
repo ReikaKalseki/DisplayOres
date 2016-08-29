@@ -1,0 +1,10 @@
+{
+  "itemName" : "coppermaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "copper.png",
+  "shortdescription" : "Placeable Copper",
+  "description" : "Copper Ore.",
+  "materialId" : 18002
+}

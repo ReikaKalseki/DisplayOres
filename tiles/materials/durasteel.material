@@ -1,0 +1,21 @@
+{
+  "materialId" : 18022,
+  "materialName" : "durasteel",
+  "particleColor" : [149, 149, 149, 255],
+  "itemDrop" : "durasteelmaterial",
+  "shortdescription" : "Placed Durasteel",
+  "description" : "Durasteel Ore.",
+  "hylotlDescription" : "Ah, Durasteel, the basis of Hylotl construction.",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 6,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "durasteel.png",
+    "variants" : 40,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 1640
+  }
+}

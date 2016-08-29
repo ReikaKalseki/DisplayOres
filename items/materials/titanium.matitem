@@ -1,0 +1,10 @@
+{
+  "itemName" : "titaniummaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "titanium.png",
+  "shortdescription" : "Placeable Titanium",
+  "description" : "Titanium Ore.",
+  "materialId" : 18015
+}

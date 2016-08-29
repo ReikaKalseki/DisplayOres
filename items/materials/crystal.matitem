@@ -1,0 +1,10 @@
+{
+  "itemName" : "crystalmaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "crystal.png",
+  "shortdescription" : "Placeable Crystal",
+  "description" : "Crystal Ore.",
+  "materialId" : 18020
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "violiummaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "violium.png",
+  "shortdescription" : "Placeable Violium",
+  "description" : "Violium Ore.",
+  "materialId" : 18019
+}

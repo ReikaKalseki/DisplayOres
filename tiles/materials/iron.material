@@ -1,0 +1,20 @@
+{
+  "materialId" : 18006,
+  "materialName" : "iron",
+  "particleColor" : [149, 149, 149, 255],
+  "itemDrop" : "ironmaterial",
+  "shortdescription" : "Placed Iron",
+  "description" : "Iron Ore.",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 6,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "iron.png",
+    "variants" : 40,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 1640
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "materialId" : 18000,
+  "materialName" : "aegisalt",
+  "particleColor" : [149, 149, 149, 255],
+  "itemDrop" : "<materialName>material",
+  "shortdescription" : "Placed Aegisalt",
+  "description" : "Rectilinear Aegisalt Ore.",
+  "glitchDescription" : "Admiring. The regularity of these crystals pleases me.",
+  "floranDescription" : "Floran doessn't like ssharp edgesss.",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 6,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "<materialName>.png",
+    "variants" : 40,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 1640
+  }
+}

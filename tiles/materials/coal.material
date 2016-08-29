@@ -1,0 +1,20 @@
+{
+  "materialId" : 18001,
+  "materialName" : "coal",
+  "particleColor" : [149, 149, 149, 255],
+  "itemDrop" : "coalmaterial",
+  "shortdescription" : "Placed Coal",
+  "description" : "Coal Ore.",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 6,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "coal.png",
+    "variants" : 40,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 1640
+  }
+}

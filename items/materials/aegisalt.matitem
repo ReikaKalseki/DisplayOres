@@ -1,0 +1,10 @@
+{
+  "itemName" : "aegisaltmaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Rare",
+  "inventoryIcon" : "aegisalt.png",
+  "shortdescription" : "Placeable Aegisalt",
+  "description" : "Aegisalt Ore.",
+  "materialId" : 18000
+}

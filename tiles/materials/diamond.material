@@ -1,0 +1,21 @@
+{
+  "materialId" : 18021,
+  "materialName" : "diamond",
+  "particleColor" : [149, 149, 149, 255],
+  "itemDrop" : "diamondmaterial",
+  "shortdescription" : "Placed Diamond",
+  "description" : "Diamond Ore.",
+  "floranDescription" : "Diamondsssss...",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 6,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "diamond.png",
+    "variants" : 40,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 1640
+  }
+}

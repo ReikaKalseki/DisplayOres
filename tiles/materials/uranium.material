@@ -1,0 +1,20 @@
+{
+  "materialId" : 18018,
+  "materialName" : "uranium",
+  "particleColor" : [149, 149, 149, 255],
+  "itemDrop" : "uraniummaterial",
+  "shortdescription" : "Placed Uranium",
+  "description" : "Uranium Ore.",
+  "footstepSound" : "/sfx/blocks/footstep_stone3.ogg",
+  "health" : 6,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "uranium.png",
+    "variants" : 40,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "zLevel" : 1640
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "cobblestonematerial", "count" : 10 },
+    { "item" : "goldbar", "count" : 1 }
+  ],
+  "output" : { "item" : "goldmaterial", "count" : 40 },
+  "groups" : [ "plain", "all" ]
+}

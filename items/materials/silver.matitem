@@ -1,0 +1,10 @@
+{
+  "itemName" : "silvermaterial",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Uncommon",
+  "inventoryIcon" : "silver.png",
+  "shortdescription" : "Placeable Silver",
+  "description" : "Silver Ore.",
+  "materialId" : 18012
+}
